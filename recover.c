@@ -21,6 +21,5 @@ int main(int argc, char *argv[])
 		}
 
    //now find the jpegs|
-   //ERM BUT HOW?? WHAT NEXT I FORGOT
-	
+
 }
