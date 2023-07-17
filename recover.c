@@ -20,6 +20,7 @@ int main(int argc, char *argv[])
 			printf("we are good");
 		}
 
-   //now find the jpegs
+   //now find the jpegs|
+   //ERM BUT HOW?? WHAT NEXT I FORGOT
 	
 }
